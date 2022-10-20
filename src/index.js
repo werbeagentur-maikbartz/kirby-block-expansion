@@ -2,7 +2,7 @@ import Accordion from './components/Accordion.vue';
 import Alert from "./components/Alert.vue";
 import DescriptionList from "./components/DescriptionList.vue";
 import Button from "./components/Button.vue";
-import Video from "./components/Video";
+import Video from "./components/Video.vue";
 
 panel.plugin("werbeagentur-maikbartz/kirby-block-expansion", {
   blocks: {
@@ -10,6 +10,6 @@ panel.plugin("werbeagentur-maikbartz/kirby-block-expansion", {
     alert: Alert,
     descriptionList: DescriptionList,
     button: Button,
-    video:Video
+    video: Video
   }
 });

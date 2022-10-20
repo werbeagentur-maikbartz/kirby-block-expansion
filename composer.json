@@ -17,7 +17,9 @@
   ],
   "homepage": "https://github.com/werbeagentur-maikbartz/kirby-block-expansion",
   "support": {
-    "email": "service@werbeagentur-maikbartz.de"
+    "email": "service@werbeagentur-maikbartz.de",
+    "docs": "https://github.com/werbeagentur-maikbartz/kirby-block-expansion/blob/main/README.md",
+    "source": "https://github.com/werbeagentur-maikbartz/kirby-block-expansion"
   },
   "authors": [
     {
