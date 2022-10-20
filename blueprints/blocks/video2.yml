@@ -1,0 +1,25 @@
+name: Video
+icon: video
+tabs:
+  main:
+    label: Main
+    fields:
+      video:
+        type: files
+        query: page.files.template('video2')
+        uploads: video2
+        multiple: false
+      title:
+        type: text
+        placeholder: Title
+      subtitle:
+        type: text
+        placeholder: Subtitle
+      description:
+        type: writer
+        icon: text
+        inline: true
+        placeholder: Description
+        marks:
+          - bold
+          - italic

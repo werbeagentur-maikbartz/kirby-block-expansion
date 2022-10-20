@@ -1,0 +1,11 @@
+name: field.blocks.button.name
+icon: url
+fields:
+  link:
+    type: pages
+    max: 1
+    options: query
+    query: site.children.published
+    subpages: true
+  text:
+    type: text

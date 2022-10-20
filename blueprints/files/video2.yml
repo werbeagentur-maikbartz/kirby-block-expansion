@@ -1,0 +1,8 @@
+title: Video
+
+accept:
+  extension: mp4, m4v, webm, mkv
+
+fields:
+  alt:
+    type: text

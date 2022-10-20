@@ -1,0 +1,23 @@
+name: field.blocks.alert.name
+icon: box
+preview: alert
+wysiwyg: true
+fields:
+  heading:
+    label: Heading
+    type: writer
+    marks: false
+    placeholder: Enter title…
+  alertType:
+    label: Alert Type
+    type: radio
+    default: text
+    options:
+      - primary
+      - success
+      - warning
+      - danger
+  text:
+    label: Text
+    type: writer
+    placeholder: Enter some text…
