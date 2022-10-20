@@ -4,7 +4,7 @@ import DescriptionList from "./components/DescriptionList.vue";
 import Button from "./components/Button.vue";
 import Video from "./components/Video";
 
-panel.plugin("wamb/block-expansion", {
+panel.plugin("werbeagentur-maikbartz/kirby-block-expansion", {
   blocks: {
     accordion: Accordion,
     alert: Alert,
