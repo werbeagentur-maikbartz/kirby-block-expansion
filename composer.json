@@ -2,7 +2,6 @@
   "name": "werbeagentur-maikbartz/kirby-block-expansion",
   "description": "Multiple Blocktypes",
   "type": "kirby-plugin",
-  "version": "1.0.1",
   "license": "MIT",
   "keywords": [
     "wamb",
@@ -25,7 +24,8 @@
     {
       "name": "WerbeAgentur Maik Bartz",
       "email": "dev@werbeagentur-maikbartz.de",
-      "homepage": "https://werbeagentur-maikbartz.de"
+      "homepage": "https://werbeagentur-maikbartz.de",
+      "role": "Developer"
     }
   ],
   "config": {
