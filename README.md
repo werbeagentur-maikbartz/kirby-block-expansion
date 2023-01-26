@@ -1,7 +1,7 @@
 
 # Kirby Block Expansion
 
-Kirby 3 (v3.7.*) plugin with various block types
+Kirby 3 (v3.9.*) plugin with various block types
 
 
 ## Block Types
