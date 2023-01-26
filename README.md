@@ -24,7 +24,7 @@ php composer.phar require werbeagentur-maikbartz/kirby-block-expansion
 
 ## Usage/Examples
 
-```yaml
+```yml
 fields:
 layout:
 type: layout
