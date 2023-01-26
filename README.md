@@ -4,6 +4,10 @@
 Kirby 3 (v3.9.*) plugin with various block types
 
 
+## Status:
+
+- currently still under development
+
 ## Block Types
 
 - Accordion
@@ -24,7 +28,7 @@ php composer.phar require werbeagentur-maikbartz/kirby-block-expansion
 
 ## Usage/Examples
 
-```yml
+```yaml
 fields:
 layout:
 type: layout
